@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: winprn's Blog
+title: winprn's blog
 
 # Your name to show in the footer
 author: winprn
@@ -61,16 +61,16 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  # twitter: true
   facebook: true
-  linkedin: true
-  vk: false
+  # linkedin: true
+  # vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -152,7 +152,7 @@ footer-link-col: "#404040"
 #disqus: ""
 
 # To use Facebook Comments, create a Facebook app and fill in the Facebook App ID
-#fb_comment_id: ""
+fb_comment_id: "1819750865080477"
 
 # To use Utterances comments: (0) uncomment the following section, (1) fill in
 # "repository" (make sure the repository is public), (2) Enable Issues in your repository,
@@ -184,7 +184,7 @@ footer-link-col: "#404040"
 date_format: "%B %-d, %Y"
 
 # Facebook App ID
-#fb_app_id: ""
+fb_app_id: "1819750865080477"
 
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
