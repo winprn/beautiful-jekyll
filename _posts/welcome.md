@@ -1,0 +1,9 @@
+---
+title:  A blog? Yay!
+readtime:  true
+---
+I created a blog! (finally after some delay).
+What exactly am I gonna write here? I will share my experiment in my competitive programming (CP) path. I've been doing in since I was in grade 8 or 9.
+If you want me to share my thoughts about some topics, feel free to leave a comment down below (hope it works)!
+
+Oh and some last words, most of the blog here will be written in English, though my mother tongue is Vietnamese. I found it easier to spread my blog around the world if I write it in a top language like English (and it's the only foreign language that I know 🙁). But sometimes, I may write blogs in both language if I have fun doing it.
