@@ -13,13 +13,13 @@ Welcome! I decided to build this blog with a serie about Alternate Current (AC) 
 <details>
     <summary>What's is an electric current?</summary>
 
-    An electric current is a stream of charged particles, such as electrons (-) or ions (+/-). Electric currents don't have direction and their amperage is constant.
+    * An electric current is a stream of charged particles, such as electrons (-) or ions (+/-). Electric currents don't have direction and their amperage is constant.
 </details>
 
 <details>
-    <summary>What's is a direct current?</summary>
+    <summary>What's is a directed current?</summary>
 
-    A direct current is an electric current but it has its own direction, which never change over time and its amperage can be changed.
+    * A directed current is an electric current but it has its own direction, which never change over time and its amperage can be changed.
 </details>
 
 Firstly, we gonna find out how can we create a alternate current: let's have a rectangle bronze wireframe has its electric charge as S, with N rings spinning around its symmetric axis (define as xx') at a constant speed (with angular velocity is $\omega$) in an uniform magnetic field $\vec{B}$ ($\vec{B}$ is perpendicular with xx').
@@ -43,3 +43,11 @@ The amperage of the electric current which flows in our electric circuit can be 
 ---
 
 I think that's enough for now, in the next parts, I'll introduce you more complicated fomulas related to voltage, amperage and we'll have a look at resistor, capacitor, and inductor when assembled in a series circuit. Thanks for reading!
+
+#### Resources
+
+https://vi.wikipedia.org/wiki/M%E1%BA%A1ch_n%E1%BB%91i_ti%E1%BA%BFp_v%C3%A0_song_song
+https://en.wikipedia.org/wiki/Alternating_current#Mathematics_of_AC_voltages
+https://en.wikipedia.org/wiki/Electromagnetic_induction
+https://en.wikipedia.org/wiki/Direct_current
+https://en.wikipedia.org/wiki/Electric_current
