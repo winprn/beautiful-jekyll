@@ -22,23 +22,23 @@ Welcome! I decided to build this blog with a serie about Alternate Current (AC) 
     * A directed current is an electric current but it has its own direction, which never change over time and its amperage can be changed.
 </details>
 
-Firstly, we gonna find out how can we create a alternate current: let's have a rectangle bronze wireframe has its electric charge as S, with N rings spinning around its symmetric axis (define as xx') at a constant speed (with angular velocity is $\omega$) in an uniform magnetic field $\vec{B}$ ($\vec{B}$ is perpendicular with xx').
+Firstly, we gonna find out how can we create a alternate current: let's have a rectangle bronze wireframe has its electric charge as S, with N rings spinning around its symmetric axis (define as xx') at a constant speed (with angular velocity is <img src="https://render.githubusercontent.com/render/math?math=$\omega$">) in an uniform magnetic field <img src="https://render.githubusercontent.com/render/math?math=$\vec{B}$"> (<img src="https://render.githubusercontent.com/render/math?math=$\vec{B}$"> is perpendicular with xx').
 
-As the wireframe spins, there will be a electromagnetic induction due to Faraday's law. If we connect it to an external circuit, an electric current will occur in that electric circuit and its amperage will harmonically oscillate with angular velocity equals to $\omega$ and we call it an alternate current as in every time the wireframe spins 1 loop, the electric current will change its direction twice.
+As the wireframe spins, there will be a electromagnetic induction due to Faraday's law. If we connect it to an external circuit, an electric current will occur in that electric circuit and its amperage will harmonically oscillate with angular velocity equals to <img src="https://render.githubusercontent.com/render/math?math=$\omega$"> and we call it an alternate current as in every time the wireframe spins 1 loop, the electric current will change its direction twice.
 
 ### Voltage and amperage of an alternating current
 
-Alternating currents are accompanied by alternating voltages, which can be described by a mathematical function of time: $u = U_0sin(\omega t + \varphi_u)$. With:
-* $u$ (V) is the instantaneous voltage at time $t$ (s).
-* $U_0$ (V) is the maximum voltage.
-* $\omega$ (rad/s) is the angular frequency.
-* $\varphi_u$ (rad) is the initial phase.
+Alternating currents are accompanied by alternating voltages, which can be described by a mathematical function of time: <img src="https://render.githubusercontent.com/render/math?math=$u = U_0sin(\omega t + \varphi_u)$">. With:
+* <img src="https://render.githubusercontent.com/render/math?math=$u$"> (V) is the instantaneous voltage at time <img src="https://render.githubusercontent.com/render/math?math=$t$ "> (s).
+* <img src="https://render.githubusercontent.com/render/math?math=$U_0$"> (V) is the maximum voltage.
+* <img src="https://render.githubusercontent.com/render/math?math=$\omega$"> (rad/s) is the angular frequency.
+* <img src="https://render.githubusercontent.com/render/math?math=$\varphi_u$"> (rad) is the initial phase.
 
-The amperage of the electric current which flows in our electric circuit can be calculated as follow: $i=I_0sin(\omega t + \varphi_i)$. With:
-* $i$ (A) is the instantaneous voltage at time $t$ (s).
-* $I_0$ (A) is the maximum voltage.
-* $\omega$ (rad/s) is the angular frequency.
-* $\varphi_i$ (rad) is the initial phase.
+The amperage of the electric current which flows in our electric circuit can be calculated as follow: <img src="https://render.githubusercontent.com/render/math?math=$i=I_0sin(\omega t + \varphi_i)$">. With:
+* <img src="https://render.githubusercontent.com/render/math?math=$i$"> (A) is the instantaneous amperage at time <img src="https://render.githubusercontent.com/render/math?math=$t$ "> (s).
+* <img src="https://render.githubusercontent.com/render/math?math=$I_0$"> (A) is the maximum amperage.
+* <img src="https://render.githubusercontent.com/render/math?math=$\omega$"> (rad/s) is the angular frequency.
+* <img src="https://render.githubusercontent.com/render/math?math=$\varphi_i$"> (rad) is the initial phase.
 
 ---
 
