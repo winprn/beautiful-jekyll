@@ -47,7 +47,11 @@ I think that's enough for now, in the next parts, I'll introduce you more compli
 #### Resources
 
 https://vi.wikipedia.org/wiki/M%E1%BA%A1ch_n%E1%BB%91i_ti%E1%BA%BFp_v%C3%A0_song_song
+
 https://en.wikipedia.org/wiki/Alternating_current#Mathematics_of_AC_voltages
+
 https://en.wikipedia.org/wiki/Electromagnetic_induction
+
 https://en.wikipedia.org/wiki/Direct_current
+
 https://en.wikipedia.org/wiki/Electric_current
