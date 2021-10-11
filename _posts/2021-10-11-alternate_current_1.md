@@ -44,7 +44,7 @@ The amperage of the electric current which flows in our electric circuit can be 
 
 I think that's enough for now, in the next parts, I'll introduce you more complicated fomulas related to voltage, amperage and we'll have a look at resistor, capacitor, and inductor when assembled in a series circuit. Thanks for reading!
 
-#### Resources
+#### References
 
 https://vi.wikipedia.org/wiki/M%E1%BA%A1ch_n%E1%BB%91i_ti%E1%BA%BFp_v%C3%A0_song_song
 
