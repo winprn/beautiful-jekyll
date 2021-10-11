@@ -28,13 +28,13 @@ As the wireframe spins, there will be a electromagnetic induction due to Faraday
 
 ### Voltage and amperage of an alternating current
 
-Alternating currents are accompanied by alternating voltages, which can be described by a mathematical function of time: <img src="https://render.githubusercontent.com/render/math?math=$u = U_0sin(\omega t + \varphi_u)$">. With:
+Alternating currents are accompanied by alternating voltages, which can be described by a mathematical function of time: <img src="https://render.githubusercontent.com/render/math?math=$u = U_0sin(\omega t %2B \varphi_u)$">. With:
 * <img src="https://render.githubusercontent.com/render/math?math=$u$"> (V) is the instantaneous voltage at time <img src="https://render.githubusercontent.com/render/math?math=$t$ "> (s).
 * <img src="https://render.githubusercontent.com/render/math?math=$U_0$"> (V) is the maximum voltage.
 * <img src="https://render.githubusercontent.com/render/math?math=$\omega$"> (rad/s) is the angular frequency.
 * <img src="https://render.githubusercontent.com/render/math?math=$\varphi_u$"> (rad) is the initial phase.
 
-The amperage of the electric current which flows in our electric circuit can be calculated as follow: <img src="https://render.githubusercontent.com/render/math?math=$i=I_0sin(\omega t + \varphi_i)$">. With:
+The amperage of the electric current which flows in our electric circuit can be calculated as follow: <img src="https://render.githubusercontent.com/render/math?math=$i=I_0sin(\omega t %2B \varphi_i)$">. With:
 * <img src="https://render.githubusercontent.com/render/math?math=$i$"> (A) is the instantaneous amperage at time <img src="https://render.githubusercontent.com/render/math?math=$t$ "> (s).
 * <img src="https://render.githubusercontent.com/render/math?math=$I_0$"> (A) is the maximum amperage.
 * <img src="https://render.githubusercontent.com/render/math?math=$\omega$"> (rad/s) is the angular frequency.
